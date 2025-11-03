@@ -6,7 +6,7 @@ Automated system to generate RSS feeds for manga sites that don't provide their 
 
 - Automated scraping of multiple manga sites
 - Individual RSS feed generation per manga
-- Daily scheduled execution via GitHub Actions
+- Scheduled execution via GitHub Actions
 - Free feed hosting on GitHub Pages
 - Flexible per-site configuration (customizable CSS selectors)
 - Customizable weekly schedule per manga
