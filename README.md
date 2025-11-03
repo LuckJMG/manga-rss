@@ -56,7 +56,7 @@ git checkout main
 
 1. Go to **Settings** → **Pages**
 2. Under **Source**, select **Deploy from a branch**
-3. Select **feeds** branch and **/ (root)** folder
+3. Select **github-pages** branch and **/ (root)** folder
 4. Save changes
 
 ### 4. Enable write permissions for GitHub Actions
